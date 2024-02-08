@@ -1,0 +1,7 @@
+HD-15 male plug (like VGA cable) to USB
+
+4	USB D-
+5	USB D+
+6	USB Shield
+9	USB +5V
+10	USB GND
