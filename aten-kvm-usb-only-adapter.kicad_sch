@@ -579,7 +579,7 @@
     (property "Value" "DE15_Plug_HighDensity_MountingHoles" (at 171.45 77.0199 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Connector_Dsub:DSUB-15-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm" (at 147.32 86.36 0)
+    (property "Footprint" "own:DSUB-15-HD_Male_Horizontal_Assmann_A-HDS15A-KG-TAXB" (at 147.32 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" " ~" (at 147.32 86.36 0)
